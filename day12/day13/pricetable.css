@@ -1,0 +1,32 @@
+body{
+    background-color: aqua;
+}
+.beats{
+    background-color: beige;
+    text-align: center;
+    
+}
+.rt{
+    text-decoration: solid;
+}
+.a{
+    display: inline;
+}
+.container{
+    display: flex;
+    column-gap: 30px;
+
+    
+    
+    
+}
+.button{
+    background-color: orange;
+    size: 200px;
+}
+.cross{
+    background-color: brown;
+}
+.tick{
+    background-color: green;
+}
